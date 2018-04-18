@@ -1,0 +1,12 @@
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\bin\Debug\netstandard2.0\Barlog.deps.json
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\bin\Debug\netstandard2.0\Barlog.dll
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.csprojResolveAssemblyReference.cache
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.csproj.CoreCompileInputs.cache
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.App.xaml.g.cs
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.MainPage.xaml.g.cs
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.Views.OrderListPage.xaml.g.cs
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.AssemblyInfoInputs.cache
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.AssemblyInfo.cs
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.dll
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\obj\Debug\netstandard2.0\Barlog.pdb
+D:\Users\adrian.hett\Documents\GIT\Barlog\Barlog\Barlog\Barlog\bin\Debug\netstandard2.0\Barlog.pdb

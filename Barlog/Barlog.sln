@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barlog.Android", "Barlog\Barlog.Android\Barlog.Android.csproj", "{3FE41629-7CB6-412A-B6E3-5D5E3E462282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barlog", "Barlog\Barlog\Barlog.csproj", "{E00B89EF-641F-4C51-A079-D052A2853E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE41629-7CB6-412A-B6E3-5D5E3E462282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE41629-7CB6-412A-B6E3-5D5E3E462282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE41629-7CB6-412A-B6E3-5D5E3E462282}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3FE41629-7CB6-412A-B6E3-5D5E3E462282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE41629-7CB6-412A-B6E3-5D5E3E462282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE41629-7CB6-412A-B6E3-5D5E3E462282}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E00B89EF-641F-4C51-A079-D052A2853E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00B89EF-641F-4C51-A079-D052A2853E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00B89EF-641F-4C51-A079-D052A2853E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00B89EF-641F-4C51-A079-D052A2853E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E343778-7935-4C75-8549-D6DD1089903B}
+	EndGlobalSection
+EndGlobal
